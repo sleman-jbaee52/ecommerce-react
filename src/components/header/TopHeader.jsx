@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { Link } from "react-router-dom";
-import Logo from "../../img/logo.png";
+import Logo from "../../img/mylogo.png";
 import { Heart, ShoppingCart, Menu, UserPlus } from "lucide-react";
 import "./header.css";
 import { CartContext } from "../CartContext";
